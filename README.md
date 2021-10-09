@@ -1,5 +1,7 @@
 # HackX_Hackathon
 ### Theme: Entertainment
+
+Project Name: Content Analysis
 This is the Repository for the assignment of the HackX Hackathon by Scalar Academy
 
 This code used os library for opening up a website in the default browser,
