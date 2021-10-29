@@ -1,0 +1,31 @@
+Some more possible and advanced ideas:
+
+(Continuation of the current_idea.txt file)
+
+This project using Sentiment Analysis to recommend stuffs is just a starting point. 
+
+We can use NLP in great ways if we are can analyse the chat of people in real-time, without human intervention, thus protecting their privacy at the same time. 
+Like if a person types “I love the songs by Ed Sheeran” (say in WhatsApp), then using NLP and recommender systems, the person can get his songs as recommendations in notification 
+once or twice a day. In the user's busy schedule, this will be a refreshment for him, with a high possibility of him clicking on the notification.
+
+Again if he types something indirect, like “My headphones are not working” or "I didn't eat burger for a long time", then he can get notifications or a pop-up about 
+buying new headphones, say from Amazon, or buying a burger, say from zomato, even before the user explicitly typing it.
+
+Thus there is a certain possibility that this will profit the associated companies, because then they will recommend users the very exact things they need even before they 
+search it. And the better the recommendation, the more is the probability that the user will buy it.
+
+Obviously someone can argue about the use of this, saying people can themselves open the apps on mobile and get these stuffs themselves.
+The answer to them is that in today's world, automation and innovation is at its peak.
+
+For eg, people are becoming increasingly dependent on virtual assistants like google assistant or siri for very simple tasks like calling someone, turning on a light or 
+fan that has virtual assitant support, dictating a message instead of typing it, etc.
+We are so dependent that we don't even type a whole sentence in a web browser search bar; we just type 2-3 keywords and then select the appropriate sentence from the 
+recommendations that we want to search.
+
+From these instances, we can conclude that the automation is the future. And this idea can take automation one step further.
+This idea, if implemented, can further be extended in future with new innovations.
+
+Using ML algorithms like NLP with apps like Whatsapp, Telegram, Messenger, etc, and also with user’s permission, it is possible that even without the user’s intervention, 
+he would be recommended stuffs as per his choice, just while chatting.
+
+With day-by-day improvement in technology, this is seems to be feasible, given different apps/softwares are allowed to interact with each other.
