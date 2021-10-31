@@ -1,7 +1,7 @@
 Project Aim: Some solutions to improve the mood of people. User would be recommended stuffs as per his/her current mood.
 
 We get the mood of the person by performing sentiment analysis on his text. Then as per the current mood, he would be suggested entertaining stuffs like movies, e-books, etc.
-Things like movies can be suggested irrespective of the mood (actually depending on the genre). But if he/she is angry, sad or is in feared (may be because of watching some 
+Things like movies can be suggested irrespective of the mood (actually depending on the genre). But if he/she is angry, sad or is feared (may be because of watching some 
 horror movie), then suggesting e-books is no good solution, rather suggesting something related to comedy is a great solution.
 
 Possible use case: This project can probably bring some impact if implemented, because when people are angry or sad, they might do something (like verbal abuse) or make some
