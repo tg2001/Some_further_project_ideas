@@ -29,3 +29,5 @@ Using ML algorithms like NLP with apps like Whatsapp, Telegram, Messenger, etc, 
 he would be recommended stuffs as per his choice, just while chatting.
 
 With day-by-day improvement in technology, this is seems to be feasible, given different apps/softwares are allowed to interact with each other.
+
+NOTE: This is just an idea. People who read it are free to comment or suggest some of their own ideas and improvements.
