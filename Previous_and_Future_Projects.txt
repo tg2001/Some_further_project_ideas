@@ -1,0 +1,22 @@
+Completed Projects:
+
+ML Projects:
+- Sentiment Analysis
+- Housing Price Prediction
+- Movie Recommender
+
+Game Development Projects:
+- 2D Shooter game
+- Gauntlet Runne
+- solar system animation project (not a game; just an animation project made with unity)
+
+
+Here is a list of my future project plans:
+- Fire Detection (Currently working)
+- Face Detection with the model being published in a app where people can upload their photos and the photos will be grouped by the person in it.
+- Making a Chatbot
+- Fraud Detection
+
+Further Plans:
+- Learning Front-end Development
+- Learning Cloud Computing (Getting accustomed to any one of the cloud platforms like Google CLoud, AWS, Azure, etc)
