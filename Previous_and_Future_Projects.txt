@@ -17,6 +17,7 @@ Here is a list of my future project plans:
 - Making a Chatbot
 - Fraud Detection
 - Working on the ideas presented in the 'Future_ideas.txt' file, if possible
+- Working on to improve the performance and accuracy of the already completed projects
 
 Further Plans:
 - Learning Front-end Development
