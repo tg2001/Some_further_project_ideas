@@ -16,6 +16,7 @@ Here is a list of my future project plans:
 - Face Detection with the model being published in a app where people can upload their photos and the photos will be grouped by the person in it.
 - Making a Chatbot
 - Fraud Detection
+- Working on the ideas presented in the 'Future_ideas.txt' file, if possible
 
 Further Plans:
 - Learning Front-end Development
