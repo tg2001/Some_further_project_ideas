@@ -1,9 +1,10 @@
 Completed Projects:
 
 ML Projects:
+- Fire Detection
 - Sentiment Analysis
-- Housing Price Prediction
 - Movie Recommender
+- Housing Price Prediction
 
 Game Development Projects:
 - 2D Shooter game
@@ -12,7 +13,7 @@ Game Development Projects:
 
 
 Here is a list of my future project plans:
-- Fire Detection (Currently working)
+- Words Predictor
 - Face Detection with the model being published in a app where people can upload their photos and the photos will be grouped by the person in it.
 - Making a Chatbot
 - Fraud Detection
