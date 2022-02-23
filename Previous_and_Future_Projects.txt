@@ -5,6 +5,7 @@ ML Projects:
 - Sentiment Analysis
 - Movie Recommender
 - Housing Price Prediction
+- Words Predictor
 
 Game Development Projects:
 - 2D Shooter game
@@ -13,13 +14,8 @@ Game Development Projects:
 
 
 Here is a list of my future project plans:
-- Words Predictor
 - Face Detection with the model being published in a app where people can upload their photos and the photos will be grouped by the person in it.
 - Making a Chatbot
 - Fraud Detection
 - Working on the ideas presented in the 'Future_ideas.txt' file, if possible
 - Working on to improve the performance and accuracy of the already completed projects
-
-Further Plans:
-- Learning Front-end Development
-- Learning Cloud Computing (Getting accustomed to any one of the cloud platforms like Google CLoud, AWS, Azure, etc)
